@@ -29,3 +29,4 @@ The `starknet.sh` script performs the following operations:
 1. **Make the script executable:**
    ```bash
    chmod +x starknet.sh
+2. ```./starknet.sh
